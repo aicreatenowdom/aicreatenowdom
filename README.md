@@ -22,6 +22,14 @@
 
 [Explore AI Now Bench 7](https://github.com/aicreatenowdom/ai-now-bench-7) · [Download for Windows](https://ainowbench.com/download.html) · [Compare systems in the Results Center](https://results.aicreatenow.com/explore)
 
+## Featured: Wi-Fi Commander
+
+**Your home. Your network. In focus.** Explore Wi-Fi and mesh coverage, check Internet health, monitor bandwidth, and inspect LAN devices and ports from a Windows PC. Version 2.1.1 includes nine focused Network / Internet Tools.
+
+[Explore Wi-Fi Commander](https://github.com/aicreatenowdom/wifi-commander) · [Product details and two-day trial](https://aicreatenow.com/WiFiCommander.html) · [Privacy policy](https://aicreatenow.com/WiFiCOMPrivacy.html)
+
+Free 48-hour trial; $4.99 lifetime license for one computer, with no subscription. See the product page for requirements and current display compatibility notices.
+
 ## Free software
 
 | Project | What it does | Availability |
@@ -36,6 +44,7 @@
 
 | Project | What it does | Trial and license |
 | --- | --- | --- |
+| [Wi-Fi Commander](https://github.com/aicreatenowdom/wifi-commander) | Wi-Fi and mesh analysis, Internet health, bandwidth, LAN and port monitoring, plus network diagnostic tools. | 2-day trial; $4.99 lifetime license for one computer. |
 | [AOL Mail Relay System](https://github.com/aicreatenowdom/aol-mail-relay) | Forward eligible new AOL Inbox messages from an awake Windows computer while preserving the originals. | 3-day trial; $5 lifetime license for one computer. |
 | [Automated Backup Packager](https://github.com/aicreatenowdom/automated-backup-packager) | Schedule standard ZIP backups of selected Windows files and folders. | 15-day trial; $3.99 lifetime license for one computer. |
 
