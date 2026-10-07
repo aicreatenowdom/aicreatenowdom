@@ -44,6 +44,7 @@ Free 48-hour trial; $4.99 lifetime license for one computer, with no subscriptio
 
 | Project | What it does | Trial and license |
 | --- | --- | --- |
+| [Rift Conduit](https://github.com/aicreatenowdom/rift-conduit) | Encrypted SFTP access to files on your Windows PC or server, using your preferred client. | 2-day trial; $7.99 lifetime license for the activated computer, including lifetime support and upgrades. |
 | [Wi-Fi Commander](https://github.com/aicreatenowdom/wifi-commander) | Wi-Fi and mesh analysis, Internet health, bandwidth, LAN and port monitoring, plus network diagnostic tools. | 2-day trial; $4.99 lifetime license for one computer. |
 | [AOL Mail Relay System](https://github.com/aicreatenowdom/aol-mail-relay) | Forward eligible new AOL Inbox messages from an awake Windows computer while preserving the originals. | 3-day trial; $5 lifetime license for one computer. |
 | [Automated Backup Packager](https://github.com/aicreatenowdom/automated-backup-packager) | Schedule standard ZIP backups of selected Windows files and folders. | 15-day trial; $3.99 lifetime license for one computer. |
