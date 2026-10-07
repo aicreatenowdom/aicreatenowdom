@@ -30,6 +30,14 @@
 
 Free 48-hour trial; $4.99 lifetime license for one computer, with no subscription. See the product page for requirements and current display compatibility notices.
 
+## Featured: Rift Conduit
+
+**A direct line to your own Windows storage.** Reach files on your Windows PC or server through encrypted SFTP, using your preferred file browser or remote-drive client. Manage incoming IPv4 settings, account creation and access controls from one compact interface.
+
+[Explore Rift Conduit](https://github.com/aicreatenowdom/rift-conduit) · [Official website](https://riftconduit.com/) · [Download and two-day trial](https://riftconduit.com/download.html) · [Connection guide](https://riftconduit.com/connection-guide.html)
+
+Free 48-hour trial; **[$7.99 lifetime license](https://buy.stripe.com/6oU7sN0JB5l66c40Fw5kk0d)** for the activated computer, including lifetime technical support and upgrades. A separately installed SFTP client and reachable network connection are required. [Privacy policy](https://riftconduit.com/privacy.html).
+
 ## Free software
 
 | Project | What it does | Availability |
@@ -70,4 +78,4 @@ These repositories provide product documentation and artwork. The Windows applic
 
 ---
 
-<p align="center"><a href="https://aicreatenow.com/">AI Creations Now</a> · <a href="https://ainowbench.com/">AI Now Bench 7</a> · <a href="https://results.aicreatenow.com/">Results Center</a></p>
+<p align="center"><a href="https://aicreatenow.com/">AI Creations Now</a> · <a href="https://ainowbench.com/">AI Now Bench 7</a> · <a href="https://riftconduit.com/">Rift Conduit</a> · <a href="https://results.aicreatenow.com/">Results Center</a></p>
