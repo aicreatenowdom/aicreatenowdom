@@ -31,7 +31,7 @@ We build Windows applications for people who want to understand their computers,
 
 **Free for everyone.** Coffee tips are optional. An eligible Microsoft account, subscription and configured signing resources are required; Microsoft service charges are separate. This is an independent application from AI Creations Now Software Development.
 
-[Explore the product](https://github.com/aicreatenowdom/azure-artifact-signing-tool) · [Official website](https://trustprogui.com/) · [Download free for Windows x64](https://download.aicreatenow.com/software/ArtifactTrustPro3.1.0microsoft.exe) · [Screenshots](https://trustprogui.com/screenshots.html) · [Setup and help](https://trustprogui.com/help.html) · [Privacy and installation policy](https://trustprogui.com/privacy.html)
+[Explore the product](https://github.com/aicreatenowdom/azure-artifact-signing-tool) · [Official website](https://trustprogui.com/) · [Download free for Windows x64](https://download.aicreatenow.com/software/ArtifactTrustPro3.1.0microsoft.exe) · [Screenshots](https://trustprogui.com/screenshots.html) · [Setup and help](https://trustprogui.com/help.html) · [Privacy and installation policy](https://trustprogui.com/privacy.html) · [Microsoft Store](https://apps.microsoft.com/detail/xp8lcmjczs31dn?hl=en-US&gl=US)
 
 ## ServerSight Pro
 
@@ -45,7 +45,7 @@ We build Windows applications for people who want to understand their computers,
 
 Start a **two-day free trial**. A **$39.99 lifetime license** covers one computer, with no subscription.
 
-[Explore the product](https://github.com/aicreatenowdom/iis-monitor) · [Official website](https://serversightpro.com/) · [Download the free trial](https://serversightpro.com/download.html) · [Features](https://serversightpro.com/features.html) · [Setup and help](https://serversightpro.com/help.html)
+[Explore the product](https://github.com/aicreatenowdom/iis-monitor) · [Official website](https://serversightpro.com/) · [Download the free trial](https://serversightpro.com/download.html) · [Features](https://serversightpro.com/features.html) · [Setup and help](https://serversightpro.com/help.html) · [Microsoft Store](https://apps.microsoft.com/detail/xp8lmxrs0t4600?hl=en-US&gl=US)
 
 ## More ways to understand and manage your PC
 
