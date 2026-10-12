@@ -31,7 +31,7 @@ We build Windows applications for people who want to understand their computers,
 
 **Free for everyone.** Coffee tips are optional. An eligible Microsoft account, subscription and configured signing resources are required; Microsoft service charges are separate. This is an independent application from AI Creations Now Software Development.
 
-[Explore the product](https://github.com/aicreatenowdom/azure-artifact-signing-tool) · [Official website](https://trustprogui.com/) · [Download free for Windows x64](https://download.aicreatenow.com/software/ArtifactTrustPro3.1.0microsoft.exe) · [Screenshots](https://trustprogui.com/screenshots.html) · [Setup and help](https://trustprogui.com/help.html) · [Privacy and installation policy](https://trustprogui.com/privacy.html) · [Microsoft Store](https://apps.microsoft.com/detail/xp8lcmjczs31dn?hl=en-US&gl=US)
+[Explore the product](https://github.com/aicreatenowdom/artifacttrust-pro-gui) · [Official website](https://trustprogui.com/) · [Download free for Windows x64](https://download.aicreatenow.com/software/ArtifactTrustPro3.1.0microsoft.exe) · [Screenshots](https://trustprogui.com/screenshots.html) · [Setup and help](https://trustprogui.com/help.html) · [Privacy and installation policy](https://trustprogui.com/privacy.html) · [Microsoft Store](https://apps.microsoft.com/detail/xp8lcmjczs31dn?hl=en-US&gl=US)
 
 ## ServerSight Pro
 
@@ -45,7 +45,7 @@ We build Windows applications for people who want to understand their computers,
 
 Start a **two-day free trial**. A **$39.99 lifetime license** covers one computer, with no subscription.
 
-[Explore the product](https://github.com/aicreatenowdom/iis-monitor) · [Official website](https://serversightpro.com/) · [Download the free trial](https://serversightpro.com/download.html) · [Features](https://serversightpro.com/features.html) · [Setup and help](https://serversightpro.com/help.html) · [Microsoft Store](https://apps.microsoft.com/detail/xp8lmxrs0t4600?hl=en-US&gl=US)
+[Explore the product](https://github.com/aicreatenowdom/serversight-pro) · [Official website](https://serversightpro.com/) · [Download the free trial](https://serversightpro.com/download.html) · [Features](https://serversightpro.com/features.html) · [Setup and help](https://serversightpro.com/help.html) · [Microsoft Store](https://apps.microsoft.com/detail/xp8lmxrs0t4600?hl=en-US&gl=US)
 
 ## More ways to understand and manage your PC
 
@@ -59,7 +59,7 @@ Start a **two-day free trial**. A **$39.99 lifetime license** covers one compute
 
 | Project | What it does | Availability |
 | --- | --- | --- |
-| [ArtifactTrust Pro GUI](https://github.com/aicreatenowdom/azure-artifact-signing-tool) | Guided single-file or batch code signing through your existing Microsoft Artifact Signing resources. | Free Windows application; optional coffee tips. Microsoft service charges are separate. [Website](https://trustprogui.com/). |
+| [ArtifactTrust Pro GUI](https://github.com/aicreatenowdom/artifacttrust-pro-gui) | Guided single-file or batch code signing through your existing Microsoft Artifact Signing resources. | Free Windows application; optional coffee tips. Microsoft service charges are separate. [Website](https://trustprogui.com/). |
 | [AI Now Bench 7](https://github.com/aicreatenowdom/ai-now-bench-7) | 63 scored results across six PC performance categories, with reports and system comparisons. | Complete Standard benchmark is free. Advanced Pro key: free email delivery within seven days, or optional $5 priority delivery within 30 minutes for the same features. [Website](https://ainowbench.com/). |
 | [PowerShell Script Runner](https://github.com/aicreatenowdom/powershell-script-runner) | Launch local PowerShell scripts as Administrator, keep the console open and revisit 20 recent scripts. | Free signed portable utility; no activation, account or payment required. [Product page](https://aicreatenow.com/scriptrunner.html). |
 | [HW Info 64 Profile Loader](https://github.com/aicreatenowdom/hwinfo64-sensor-layout-profile-loader) | Save and switch ten HWiNFO64 sensor profiles, including a protected stock profile. | Free independent companion. HWiNFO64 is obtained separately under its own license. [Product page](https://aicreatenow.com/hwinfo64loader.html). |
@@ -69,7 +69,7 @@ Start a **two-day free trial**. A **$39.99 lifetime license** covers one compute
 
 | Project | What it does | Trial and license |
 | --- | --- | --- |
-| [ServerSight Pro](https://github.com/aicreatenowdom/iis-monitor) | Monitor IIS website activity, requests, errors and Windows server resources. | 2-day trial; $39.99 lifetime license for one computer, with no subscription. [Website](https://serversightpro.com/). |
+| [ServerSight Pro](https://github.com/aicreatenowdom/serversight-pro) | Monitor IIS website activity, requests, errors and Windows server resources. | 2-day trial; $39.99 lifetime license for one computer, with no subscription. [Website](https://serversightpro.com/). |
 | [Wi-Fi Commander](https://github.com/aicreatenowdom/wifi-commander) | Wi-Fi and mesh analysis, Internet health, bandwidth, LAN visibility and network diagnostic tools. | 2-day trial; $4.99 lifetime license for one computer, with no subscription. [Website](https://getwificommander.com/). |
 | [Rift Conduit](https://github.com/aicreatenowdom/rift-conduit) | Encrypted SFTP access to files on your Windows PC or server using your preferred client. | 2-day trial; $7.99 lifetime license for the activated computer, including lifetime support and upgrades. [Website](https://riftconduit.com/). |
 | [AOL Mail Relay System](https://github.com/aicreatenowdom/aol-mail-relay) | Forward eligible new AOL Inbox messages from an awake Windows computer while preserving the originals. | 3-day trial; $5 lifetime license for one computer. [Product page](https://aicreatenow.com/aolrelay.html). |
